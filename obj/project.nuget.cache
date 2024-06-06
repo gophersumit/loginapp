@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nl+RVejsC/g=",
+  "success": true,
+  "projectFilePath": "/Users/sumit/projects/learning/loginapp/loginapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/sumit/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/sumit/.nuget/packages/selenium.webdriver/4.21.0/selenium.webdriver.4.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
